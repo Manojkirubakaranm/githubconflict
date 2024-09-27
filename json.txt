@@ -1,11 +1,7 @@
 {
-<<<<<<< HEAD
-    "city" : "chennai";
-    "name" : "manoik";
-=======
 
+    "city" : "chennai";
     "city" : "bangalore";
     "name" : "manoj"
 
->>>>>>> main
 }
