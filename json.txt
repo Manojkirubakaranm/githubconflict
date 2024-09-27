@@ -1,8 +1,6 @@
 {
-<<<<<<< HEAD
-    "city" : "chennai";
-=======
+
     "city" : "bangalore";
     "name" : "manoj"
->>>>>>> person1
+
 }
